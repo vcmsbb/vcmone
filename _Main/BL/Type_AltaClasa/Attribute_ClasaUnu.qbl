@@ -1,0 +1,8 @@
+Quintiq file version 2.0
+#parent: #root
+Attribute ClasaUnu
+{
+  #keys: '3[719548.0.24214014][719548.0.24214013][719548.0.24214015]'
+  Description: '// new attribute'
+  ValueType: String
+}
